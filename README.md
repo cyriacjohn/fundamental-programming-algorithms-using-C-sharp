@@ -15,6 +15,7 @@ A collection of C# code snippets demonstrating fundamental programming concepts 
    - [Concatenate First and Last Name](#concatenate-first-and-last-name)
    - [Reverse Each Word in a Sentence](#reverse-each-word-in-a-sentence)
    - [Duplicate Characters in a String](#duplicate-characters-in-a-string)
+   - [Reverse a String](#reverse-a-string)
 
 3. **Number Handling**
    - [Read and Display Integer](#read-and-display-integer)
@@ -378,4 +379,30 @@ class A {
     }
 }
 ```
+
+### Reverse a string
+Reverses an entered string. 
+
+```csharp
+class A {
+   public static void Main() {
+string rev;
+string org;
+      Console.WriteLine("Ënter the string: ");
+      org = Console.ReadLine();
+
+   rev = string.Empty();
+
+for(int i = org - 1; i>=0; i--) {
+   rev += org[i];
+}
+
+Console.WriteLine("The reversed string is: {0}" , rev);
+Console.ReadLine();
+}};
+```
+
+
+ 
+
 
