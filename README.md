@@ -210,7 +210,8 @@ class A {
         Console.WriteLine(num == reversed ? "Palindrome" : "Not a palindrome");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Armstrong Number Check
 Verifies if a number is an Armstrong number.
@@ -227,7 +228,8 @@ class A {
         Console.WriteLine(num == sum ? "Armstrong number" : "Not an Armstrong number");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Factorial of a Number (Using for loop)
 Calculates the factorial using a loop.
@@ -240,7 +242,8 @@ class A {
         Console.WriteLine("Factorial: " + fact);
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Factorial of a Number (Using Recursive Function)
 Calculates the factorial using a recursive function.
@@ -254,7 +257,8 @@ class A {
         Console.WriteLine("Factorial: " + Factorial(5));
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Generate Fibonacci Series
 Generates the Fibonacci sequence up to a given limit.
@@ -272,7 +276,8 @@ class A {
         }
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Check Prime Number
 Determines if a number is prime.
@@ -291,7 +296,8 @@ class A {
         Console.WriteLine(isPrime ? "Prime number" : "Not a prime number");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Prime Numbers up to N
 Displays all prime numbers up to a specified limit.
@@ -313,7 +319,8 @@ class A {
         }
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Largest of Two Numbers (Using If-Else)
 Determines the larger of two numbers using if-else.
@@ -325,7 +332,8 @@ class A {
         Console.WriteLine(a > b ? "A is larger" : "B is larger");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Largest of Three Numbers (Using Nested If)
 Determines the largest of three numbers using nested if statements.
@@ -339,7 +347,8 @@ class A {
         else Console.WriteLine("C is the largest");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Print First N Natural Numbers
 Prints the first N natural numbers.
@@ -351,7 +360,8 @@ class A {
         for (int i = 1; i <= n; i++) Console.Write(i + " ");
         Console.ReadKey();
     }
-}```
+}
+```
 
 ### Swap Two Variables (Without Third Variable)
 Swaps two variables without using a third variable.
@@ -366,5 +376,6 @@ class A {
         Console.WriteLine("After swap, a = " + a + ", b = " + b);
         Console.ReadKey();
     }
-}```
+}
+```
 
