@@ -78,7 +78,7 @@ class A {
 }
 ```
 
-Read and Display String Input
+### Read and Display String Input
 Reads a string input from the user and displays it.
 
 ```csharp
@@ -92,7 +92,7 @@ class A {
 }
 ```
 
-Concatenate First and Last Name
+### Concatenate First and Last Name
 Reads first and last name and concatenates them.
 
 ```csharp
@@ -108,7 +108,7 @@ class A {
 }
 ```
 
-Reverse Each Word in a Sentence
+### Reverse Each Word in a Sentence
 Reverses the characters in each word of a sentence.
 
 ```csharp
@@ -127,7 +127,7 @@ class A {
 }
 ```
 
-Duplicate Characters in a String
+### Duplicate Characters in a String
 Identifies and displays duplicate characters in a string.
 
 ```csharp
@@ -145,7 +145,7 @@ class A {
 }
 ```
 
-Read and Display Integer
+### Read and Display Integer
 Reads an integer input and displays it.
 
 ```csharp
@@ -159,7 +159,7 @@ class A {
 }
 ```
 
-Number of Digits in a Number
+### Number of Digits in a Number
 Counts the digits in an integer.
 
 ```csharp
@@ -177,7 +177,7 @@ class A {
 }
 ```
 
-Reverse of a Number
+### Reverse of a Number
 Reverses the digits of a number.
 
 ```csharp
@@ -195,7 +195,7 @@ class A {
 }
 ```
 
-Palindrome Check for a Number
+### Palindrome Check for a Number
 Checks if a number is a palindrome.
 
 ```csharp
@@ -212,7 +212,7 @@ class A {
     }
 }```
 
-Armstrong Number Check
+### Armstrong Number Check
 Verifies if a number is an Armstrong number.
 
 ```csharp
@@ -229,7 +229,7 @@ class A {
     }
 }```
 
-Factorial of a Number (Using for loop)
+### Factorial of a Number (Using for loop)
 Calculates the factorial using a loop.
 
 ```csharp
@@ -242,7 +242,7 @@ class A {
     }
 }```
 
-Factorial of a Number (Using Recursive Function)
+### Factorial of a Number (Using Recursive Function)
 Calculates the factorial using a recursive function.
 
 ```csharp
@@ -256,7 +256,7 @@ class A {
     }
 }```
 
-Generate Fibonacci Series
+### Generate Fibonacci Series
 Generates the Fibonacci sequence up to a given limit.
 
 ```csharp
@@ -274,7 +274,7 @@ class A {
     }
 }```
 
-Check Prime Number
+### Check Prime Number
 Determines if a number is prime.
 
 ```csharp
@@ -293,7 +293,7 @@ class A {
     }
 }```
 
-Prime Numbers up to N
+### Prime Numbers up to N
 Displays all prime numbers up to a specified limit.
 
 ```csharp
@@ -315,7 +315,7 @@ class A {
     }
 }```
 
-Largest of Two Numbers (Using If-Else)
+### Largest of Two Numbers (Using If-Else)
 Determines the larger of two numbers using if-else.
 
 ```csharp
@@ -327,7 +327,7 @@ class A {
     }
 }```
 
-Largest of Three Numbers (Using Nested If)
+### Largest of Three Numbers (Using Nested If)
 Determines the largest of three numbers using nested if statements.
 
 ```csharp
@@ -341,7 +341,7 @@ class A {
     }
 }```
 
-Print First N Natural Numbers
+### Print First N Natural Numbers
 Prints the first N natural numbers.
 
 ```csharp
@@ -353,7 +353,7 @@ class A {
     }
 }```
 
-Swap Two Variables (Without Third Variable)
+### Swap Two Variables (Without Third Variable)
 Swaps two variables without using a third variable.
 
 ```csharp
