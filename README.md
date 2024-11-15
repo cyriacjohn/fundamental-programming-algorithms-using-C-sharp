@@ -1,4 +1,4 @@
-# fundamental-programming-algorithms-using-C-
+# fundamental-programming-algorithms-using-C#
 
 A collection of C# code snippets demonstrating fundamental programming concepts and common algorithms.
 
