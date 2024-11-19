@@ -398,7 +398,7 @@ for(int i = org - 1; i>=0; i--) {
 }
 
 Console.WriteLine("The reversed string is: {0}" , rev);
-Console.ReadLine();
+Console.ReadKey();
 }};
 ```
 
